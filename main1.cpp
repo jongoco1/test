@@ -1,7 +1,10 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
-int main(){
-	cout << "Hello Work" << endl;
-	return 0;
+int main(int argc, char* argv[]){
+
+  cout << "Hello Work" << endl;
+  return 0;
 }
